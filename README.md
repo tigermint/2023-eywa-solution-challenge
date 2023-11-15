@@ -46,10 +46,12 @@ Eywa is only available on Android devices. iOS devices are not supported yet.
 - Model: MobileNet
 
 ## 🛠 Project Architecture
+![KakaoTalk_Image_2023-11-15-22-13-11](https://github.com/tigermint/2023-eywa-solution-challenge/assets/87690279/b27070ba-7f45-46d3-8325-de62fe4e45dd)
 
-![architecture](https://i.imgur.com/4HuYwav.png)
+
 
 ## 📽 Demo Video Link
-https://www.youtube.com/watch?v=DNkR5_yOndk&t=1s
+[![Eywa](https://github.com/tigermint/2023-eywa-solution-challenge/assets/87690279/fda2162e-a83d-45d8-b7b1-9526d16e6113)](https://youtu.be/DNkR5_yOndk)
+
 
 
